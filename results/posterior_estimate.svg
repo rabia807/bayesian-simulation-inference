@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<rect width="800" height="420" fill="white"/><text x="400" y="32" text-anchor="middle" font-family="Arial" font-size="22">Neural approximate posterior (illustrative run)</text>
+<g fill="none" stroke="#333" stroke-width="2"><path d="M60 180H380M60 180V65M420 180H740M420 180V65"/></g>
+<path d="M70 180 C110 180 125 178 145 155 C165 110 180 72 205 72 C230 72 245 110 265 155 C285 178 300 180 370 180" fill="none" stroke="#2563eb" stroke-width="3"/>
+<path d="M70 180V180M205 65V180" stroke="#16a34a" stroke-dasharray="6 5" stroke-width="2"/>
+<path d="M430 180 C475 180 490 178 510 150 C530 100 550 75 575 75 C600 75 620 112 640 155 C660 178 680 180 730 180" fill="none" stroke="#2563eb" stroke-width="3"/>
+<path d="M575 65V180" stroke="#16a34a" stroke-dasharray="6 5" stroke-width="2"/>
+<g font-family="Arial" font-size="16" fill="#222"><text x="220" y="215" text-anchor="middle">mu</text><text x="580" y="215" text-anchor="middle">log(sigma)</text><text x="205" y="55" text-anchor="middle" fill="#16a34a">True mu = 1.25</text><text x="575" y="55" text-anchor="middle" fill="#16a34a">True log(sigma)</text><text x="400" y="270" text-anchor="middle">Posterior mean estimates: mu = 1.2553, sigma = 0.7310</text><text x="400" y="300" text-anchor="middle" font-size="13" fill="#555">Blue curves show approximate marginal posterior shapes; green dashed lines mark true parameter values.</text></g></svg>
